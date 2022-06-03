@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'': 'your apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'': 'your apikey',  // login to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -26,7 +26,7 @@ global.github = "" //bebas
 global.email = "hendramllb414@gmail.com" //bebas
 global.region = "Malaysia" //bebas
 global.ownernomer = "436507000206999" // nomor wa kalian
-global.ownernomerr = "436507000206999" //nmr wa kalian
+global.ownernomerr = "+436507000206999" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
