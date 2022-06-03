@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan le owner
+	alfa: '', //apabila link api eror, segera laporkan le owner
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'your apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'': 'your apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
